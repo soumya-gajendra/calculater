@@ -1,0 +1,81 @@
+.n{
+    background-color: red;
+  height: 5px;
+  margin-top: 10px; ;
+}
+.e{
+  
+  background-color:red;
+  height: 50rem;
+  width: 5px;
+  position: absolute;
+  left:50%;
+}
+.my{
+  color: aquamarine;
+  font-family:  "Courier", monospace;
+  text-align: left;
+  font-size: 50px;
+  text-shadow: 3px 3px 3px black;
+  margin-top: 90px;
+}
+input{
+  width: 98%;
+  height: 50px;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h2{
+  background-color: aliceblue;
+  text-align: left;
+  height: 90px;
+  font-size: 30px;
+}
+body{
+  background-color:white;
+  font-family:  "Courier", monospace;
+  text-align: center;
+}
+.button{
+  color: aquamarine;
+  font-family:   "monospace";
+  text-align: center;
+  border-radius: 10px;
+  width: 500px; ;
+  padding: 5px,5px,5px,5px;
+  font-size: 40px;
+}
+.mynumer{
+  background-color: rgb(98, 18, 110);
+  width: 27%;
+  height: 50%;
+  float: left;
+  margin-top: 70px;
+  margin-left: 150px;
+}
+.myhistory{
+  background-color: aliceblue;
+  width: 29%;
+  height:690px;
+  float: right;
+  margin-top: 70px;
+  margin-right: 150px;
+}
+button{
+  color: red;
+  margin: 10px;
+  margin-left: 12px;
+  font-size: 15px;
+  padding: 35px;
+  font-weight: 50px;
+}
+.m{
+  color: aquamarine;
+  font-family:  "Courier", monospace;
+  font-size: 50px;
+  text-shadow: 3px 3px 3px black;
+  position: absolute;
+  left: 50%;
+  top: 10%;
+}
